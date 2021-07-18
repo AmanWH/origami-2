@@ -1,0 +1,34 @@
+.header{
+    background-color: blanchedalmond;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.bodyimg{
+    background-image: url(images/black.jpg);
+}
+
+.origami{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.camel{
+    border-style:hidden;
+    background-color: rgb(247, 229, 165);
+}
+.chamaleon{
+    border-style: hidden;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(247, 229, 165);
+}
+.pigeon{
+    border-style: hidden;
+    background-color: rgb(247, 229, 165);
+}
+
